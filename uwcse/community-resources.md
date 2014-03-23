@@ -1,6 +1,5 @@
 ### Documents
-* [Review Sheets](https://drive.google.com/folderview?id=0B2JEbfnuVaLYTjFOZ09KNENhWVk)
-* [Advice for New Majors](https://docs.google.com/document/d/11HfJPppUhlRHmBpQHgBPjx_aONX3F0lf4vpudty0Gmc)
+* [CSE Course Review Sheets](https://drive.google.com/folderview?id=0B2JEbfnuVaLYTjFOZ09KNENhWVk)
  
 ### Groups
 #### UW Specific
@@ -29,7 +28,7 @@
 #### Outreach/Programs
 * [DawgBytes](https://www.facebook.com/uwdawgbytes)
  
-#### Affiliates @ UW
+#### Affiliates @ UW CSE
 * [FB Seattle](https://www.facebook.com/fbseattle)
 * [FB Hackathon](https://www.facebook.com/hackathon)
 * [Google at UW](https://www.facebook.com/googleuw)
@@ -38,3 +37,4 @@
 #### Startup
  * [Startup UW](https://www.facebook.com/StartupUW)
  * [Startup Weekend UW](https://www.facebook.com/StartupWeekendUW)
+ * [AngelHack](http://angelhack.com/)
