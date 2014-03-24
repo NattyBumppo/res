@@ -2,8 +2,17 @@
 * [Stack Overflow](http://stackoverflow.com)  
 
 ### Code:  
-* [Codeacademy](www.codecademy.com)
-* [Code School](http://discover-devtools.codeschool.com/)  
+* [Code.org](http://www.code.org)  
+* [Code Academy](http://www.codecademy.com/#!/exercises/0)  
+* [Computer Science for Everyone](http://www.computerscienceforeveryone.com)  
+* [Code School](http://www.codeschool.com)  
+* [Software Engineer Insider](http://www.softwareengineerinsider.com/programming-languages/learning-center.html)  
+
+### General Learning:
+* [Khan Academy](http://www.khanacademy.org/cs)  
+* [Learn Street](http://www.learnstreet.com)  
+* [Udacity](https://www.udacity.com/courses)  
+* [Coursera](https://www.coursera.org)  
 
 ### Design:  
 * [Hack Design](http://hackdesign.org/)  
