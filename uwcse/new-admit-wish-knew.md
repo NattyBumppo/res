@@ -9,5 +9,5 @@ Things people wish they knew when they were first admitted into CSE. Brought to 
 * Everyone is awesome. I didn't really hang out with anyone in CSE for a couple of quarters, which is unfortunate in retrospect.
 * Go to office hours.
 * Do research!
-* Be wary of [confirmation bias](http://en.wikipedia.org/wiki/Confirmation_bias).
+* Be wary of [confirmation bias](http://en.wikipedia.org/wiki/Confirmation_bias) and [imposter syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome).
 * Go to all of the career fairs!
