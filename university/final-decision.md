@@ -8,3 +8,11 @@ For example, if you're interested in computer science programs, ask the followin
 * Where do most of the graduates end up?
 * Scholarship opportunities?
 * What companies recruit here? How do they treat the students?
+
+No CSE direct admit:
+* What other programs/majors interest you at that school?
+* Would you be happy declaring a different major?
+* What resources are available for non-CSE majors?
+* What companies recruit non-CSE majors?
+* What opportunities are there to prepare students for industry, research, or academia?
+* What are the mentorship opportunities for students?
