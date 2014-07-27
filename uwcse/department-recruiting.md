@@ -111,4 +111,4 @@ In my experience, the recruiters treat us very well. They're representing their 
 
 Once in a while, you'll run into a recruiter that seems really unprofessional, but you'll probably get that experience at least once no matter what school you go to. (It's good learning experience to learn how to deal with difficult people, if you want to spin it that way!)
 
-There's also a recruiting policy for the Affiliates program that you can find (here](http://www.cs.washington.edu/industrial_affiliates/recruiting_policy/)
+There's also a recruiting policy for the Affiliates program that you can find [here](http://www.cs.washington.edu/industrial_affiliates/recruiting_policy/)
