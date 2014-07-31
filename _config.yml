@@ -1,0 +1,9 @@
+title:            Resources 
+url:              http://japacible.github.io/res
+#url:              localhost:4000
+permalink:        none
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
+google_analytics: UA-50444679-1
+timezone:         America/Los_Angeles

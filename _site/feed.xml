@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources</title>
+    <description></description>
+    <link>localhost:4000</link>
+    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>web post</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+        <link>localhost:4000/web/web.html</link>
+        <guid isPermaLink="true">localhost:4000/web/web.html</guid>
+      </item>
+    
+      <item>
+        <title>paper post</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+        <link>localhost:4000/paper/paper.html</link>
+        <guid isPermaLink="true">localhost:4000/paper/paper.html</guid>
+      </item>
+    
+  </channel>
+</rss>
