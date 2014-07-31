@@ -3,16 +3,16 @@
   <channel>
     <title>Resources</title>
     <description></description>
-    <link>http://japacible.github.io/res</link>
-    <atom:link href="http://japacible.github.io/res/feed.xml" rel="self" type="application/rss+xml" />
+    <link>localhost:4000</link>
+    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>web post</title>
         <description>
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
-        <link>http://japacible.github.io/res/web/web.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/res/web/web.html</guid>
+        <link>localhost:4000/web/web.html</link>
+        <guid isPermaLink="true">localhost:4000/web/web.html</guid>
       </item>
     
       <item>
@@ -20,8 +20,8 @@
         <description>
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
-        <link>http://japacible.github.io/res/paper/paper.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/res/paper/paper.html</guid>
+        <link>localhost:4000/paper/paper.html</link>
+        <guid isPermaLink="true">localhost:4000/paper/paper.html</guid>
       </item>
     
   </channel>

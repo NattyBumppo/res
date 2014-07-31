@@ -1,6 +1,6 @@
 title:            Resources 
-url:              http://japacible.github.io/res
-#url:              localhost:4000
+#url:              http://japacible.github.io/res
+url:              localhost:4000
 permalink:        none
 markdown:         rdiscount
 rdiscount:
