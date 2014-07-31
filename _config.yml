@@ -1,7 +1,7 @@
 title:            Resources 
 url:              http://japacible.github.io/res
 #url:              localhost:4000
-permalink:        /res/:categories/:title/
+permalink:        /res/:categories/:title.html
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
