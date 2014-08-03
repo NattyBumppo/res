@@ -2,7 +2,7 @@
 layout: post
 title: linux
 description:
-category: environment
+category: development
 ---
 
 ### Linux/Unix:  

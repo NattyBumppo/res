@@ -2,7 +2,7 @@
 layout: post
 title: tools
 description:
-category: environment
+category: development
 ---
 
 ### Git:  
