@@ -1,3 +1,10 @@
+---
+layout: post
+title: tools
+description:
+category: environment
+---
+
 ### Git:  
 * [Git Legit](http://www.git-legit.org)  
 * [Git Immersion](http://gitimmersion.com/)  

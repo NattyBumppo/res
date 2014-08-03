@@ -1,3 +1,10 @@
+---
+layout: post
+title: community resources
+description:
+category: uwcse
+---
+
 ### Documents
 * [CSE Course Review Sheets](https://drive.google.com/folderview?id=0B2JEbfnuVaLYTjFOZ09KNENhWVk)
  

@@ -1,3 +1,10 @@
+---
+layout: post
+title: resources
+description:
+category: education
+---
+
 ### General: //PINNED  
 * [Stack Overflow](http://stackoverflow.com)  
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: links
+description:
+category: uwcse
+---
+
 ### University of Washington
 * [CSE Time Schedule](http://www.cs.washington.edu/education/time-sched/)
 * [CSE Course Descriptions](http://www.cs.washington.edu/education/courses/)

@@ -1,3 +1,10 @@
+---
+layout: post
+title: departmental recruiting
+description:
+category: uwcse
+---
+
 I recommend students ask a number of questions when determining which school to go commit to:
 * What are the professors here famous for? Systems? Distributed Systems? HCI? Algorithms?
 * What type of research can I do here? How easy is it to get a research position?

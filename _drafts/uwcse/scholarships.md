@@ -1,3 +1,10 @@
+---
+layout: post
+title: scholarships
+description:
+category: uwcse
+---
+
 ### University of Washington Affiliated Scholarships
 * [CSE](https://www.cs.washington.edu/students/ugrad/departmental_scholarships)
 * [Department of Engineering](http://www.engr.washington.edu/curr_students/scholarships.html)

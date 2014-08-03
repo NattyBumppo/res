@@ -1,3 +1,10 @@
+---
+layout: post
+title: web
+description:
+category: development
+---
+
 ## CSS & JavaScript Libraries
 * [Unheap](http://www.unheap.com/)
 * [Transit](http://ricostacruz.com/jquery.transit/) (JS + jQuery)

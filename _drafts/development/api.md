@@ -1,3 +1,10 @@
+---
+layout: post
+title: api
+description:
+category: development
+---
+
 ### Data:  
 * [WolframAlpha](http://products.wolframalpha.com/api/)  
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: coding standards
+description:
+category: standards
+---
+
 We enforce these while reviewing code from teammates' commits. It is up to the code reviewer to make any style fixes before signing off on a certain commit. Github allows us to make comments, which will ensure that we can easily communicate about any problems with code styles.
 
 ### Code Review

@@ -1,3 +1,10 @@
+---
+layout: post
+title: web
+description:
+category: design
+---
+
 ### Bootstrap:  
 * [Website](http://twitter.github.com/bootstrap/)  
 * [Built With Bootstrap](http://builtwithbootstrap.com/)  

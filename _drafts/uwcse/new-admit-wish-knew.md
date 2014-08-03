@@ -1,3 +1,10 @@
+---
+layout: post
+title: wisdom for new admits
+description:
+category: uwcse
+---
+
 Things people wish they knew when they were first admitted into CSE. Brought to you by upperclassmen and recent alumni:
 
 * There's four labs: 002, 003, 006, and 022.

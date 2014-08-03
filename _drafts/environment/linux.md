@@ -1,3 +1,10 @@
+---
+layout: post
+title: linux
+description:
+category: environment
+---
+
 ### Linux/Unix:  
 * [Terminal Split](http://unix.stackexchange.com/questions/7453/how-to-split-the-terminal-into-more-than-one-view)  
 * [Tutorial Dump](http://thedaneshproject.com/posts/good-collection-of-linux-tutorials/)  

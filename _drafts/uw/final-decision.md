@@ -1,3 +1,10 @@
+---
+layout: post
+title: making a final decision
+description:
+category: uw
+---
+
 Making a final decision isn't easy. When determining which school you want to commit to, look past the rankings.
 
 For example, if you're interested in computer science programs, ask the following questions regardless of the school's prestige:

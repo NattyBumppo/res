@@ -1,3 +1,10 @@
+---
+layout: post
+title: front end coding standards
+description:
+category: standards
+---
+
 ### General
 * Two space indentation (no tabs)
 * 80-char line width

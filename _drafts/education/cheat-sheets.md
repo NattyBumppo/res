@@ -1,3 +1,10 @@
+---
+layout: post
+title: cheat sheets
+description:
+category: education
+---
+
 ### Markdown:  
 * [adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 

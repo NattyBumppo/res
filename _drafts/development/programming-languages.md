@@ -1,3 +1,10 @@
+---
+layout: post
+title: programming languages
+description:
+category: development
+---
+
 ### C:  
 * [Sample C Codes](http://sample-c-codes.blogspot.com/)  
 
