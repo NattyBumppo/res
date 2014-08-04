@@ -19,6 +19,7 @@ category: development
 * [Headroom.js](http://wicky.nillia.ms/headroom.js/) (JS)
 * [Sass](http://sass*lang.com/) (CSS)
 * [Less](http://lesscss.org/) (CSS)
+* [Node.js](http://nodejs.org/] (JS)
  
 ## Frameworks & CMSs
 * [Flask](http://flask.pocoo.org/)
@@ -35,6 +36,9 @@ category: development
 * [WordPress](http://wordpress.org/)
 * [gulp.js](http://gulpjs.com/)
 * [Grunt](http://gruntjs.com/)
+* [Bower](http://bower.io/)
+* [Closure](https://developers.google.com/closure/)
+* [Polymer](http://www.polymer-project.org/)
  
 ## Design
 * [Dribbble](https://dribbble.com/)
@@ -56,6 +60,7 @@ category: development
 * [PhantomJS](http://phantomjs.org/)
 * [QUnit](http://qunitjs.com/)
 * [Coveralls](https://coveralls.io/)
+* [Karma](http://karma-runner.github.io/0.12/index.html)
  
 ## Deploying
 * [Heroku](https://www.heroku.com/)
