@@ -22,3 +22,12 @@ category: development
 * [Open Vim](http://www.openvim.com/index.html)  
 * [Dump gvim Plugins](http://stackoverflow.com/questions/21725/favorite-gvim-plugins-scripts)  
 * [Shortcuts Dump](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-  shortcut-with-vim/1220118#1220118)  
+* [Vundle - Vim Plugin Manager](https://github.com/gmarik/Vundle.vim)
+* [Ctrlp - Fuzzy Finder](https://github.com/kien/ctrlp.vim)
+* [NerdTree - Filesystem explorer](https://github.com/scrooloose/nerdtree)
+* [Syntastic - Syntax Checker](https://github.com/scrooloose/syntastic)
+* [Vim ColorSchemes](https://github.com/flazz/vim-colorschemes)
+* [Figlet](https://github.com/vim-scripts/Figlet.vim)
+
+### Command-Line Interface:
+* [Liquid Prompt](https://github.com/nojhan/liquidprompt)

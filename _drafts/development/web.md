@@ -20,6 +20,7 @@ category: development
 * [Sass](http://sass*lang.com/) (CSS)
 * [Less](http://lesscss.org/) (CSS)
 * [Node.js](http://nodejs.org/) (JS)
+* [Google Fonts](https://developers.google.com/fonts/docs/getting_started) (CSS)
  
 ## Frameworks & CMSs
 * [Flask](http://flask.pocoo.org/)
