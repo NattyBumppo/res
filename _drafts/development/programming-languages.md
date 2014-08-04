@@ -35,6 +35,7 @@ category: development
 * [Invent With Python](http://inventwithpython.com/chapters/)  
 * [Matplotlib - 2D Plotting](http://matplotlib.org/)
 * [PyPy](http://pypy.org/)
+* [Google's Python Class](https://developers.google.com/edu/python/)
 
 ### Ruby on Rails:
 * [Rails for Zombies](http://railsforzombies.org/)  

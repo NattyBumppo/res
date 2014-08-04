@@ -28,6 +28,7 @@ category: development
 * [Syntastic - Syntax Checker](https://github.com/scrooloose/syntastic)
 * [Vim ColorSchemes](https://github.com/flazz/vim-colorschemes)
 * [Figlet](https://github.com/vim-scripts/Figlet.vim)
+* [Vim Markdown](https://github.com/plasticboy/vim-markdown/)
 
 ### Command-Line Interface:
 * [Liquid Prompt](https://github.com/nojhan/liquidprompt)
