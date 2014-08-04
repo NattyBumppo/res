@@ -16,6 +16,14 @@ category: development
 * [Pedastal](http://pedestal.io/)  
 * [Leiningen](http://leiningen.org/)  
 
+### Go (golang):
+* [The Go Programming Language](http://golang.org/)
+* [A Tour of Go](http://tour.golang.org/#1)
+* [How to Write Go Code](http://golang.org/doc/code.html)
+* [Effective Go](http://golang.org/doc/effective_go.html)
+* [Go-Radix](https://github.com/armon/go-radix)
+* [GoDoc](http://godoc.org/)
+
 ### Javascript: 
 * [Dump 25](http://smashinghub.com/25-useful-javascript-libraries-and-tools.htm)  
 * [Type Script Lang](http://www.typescriptlang.org/)  
@@ -25,6 +33,8 @@ category: development
 * [Try Python](http://www.trypython.org/)  
 * [Py4Fun](http://www.openbookproject.net/py4fun/)  
 * [Invent With Python](http://inventwithpython.com/chapters/)  
+* [Matplotlib - 2D Plotting](http://matplotlib.org/)
+* [PyPy](http://pypy.org/)
 
 ### Ruby on Rails:
 * [Rails for Zombies](http://railsforzombies.org/)  
