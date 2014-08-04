@@ -32,3 +32,6 @@ category: development
 
 ### Command-Line Interface:
 * [Liquid Prompt](https://github.com/nojhan/liquidprompt)
+
+### OSX:
+* [Homebrew - OSX Package Manager](http://brew.sh/)

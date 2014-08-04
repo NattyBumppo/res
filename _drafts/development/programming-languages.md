@@ -39,3 +39,6 @@ category: development
 
 ### Ruby on Rails:
 * [Rails for Zombies](http://railsforzombies.org/)  
+
+### Scala:
+* [Effective Scala](http://twitter.github.io/effectivescala/)

@@ -21,6 +21,7 @@ category: development
 * [Less](http://lesscss.org/) (CSS)
 * [Node.js](http://nodejs.org/) (JS)
 * [Google Fonts](https://developers.google.com/fonts/docs/getting_started) (CSS)
+* [D3.js](http://d3js.org/) (JS)
  
 ## Frameworks & CMSs
 * [Flask](http://flask.pocoo.org/)
