@@ -19,7 +19,7 @@ category: development
 * [Headroom.js](http://wicky.nillia.ms/headroom.js/) (JS)
 * [Sass](http://sass*lang.com/) (CSS)
 * [Less](http://lesscss.org/) (CSS)
-* [Node.js](http://nodejs.org/] (JS)
+* [Node.js](http://nodejs.org/) (JS)
  
 ## Frameworks & CMSs
 * [Flask](http://flask.pocoo.org/)
