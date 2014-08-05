@@ -5,7 +5,7 @@ description:
 category: women in tech
 ---
 
-http://www.technovationchallenge.org/home/  
-http://girlswhocode.com/programs/  
-https://www.madewithcode.com/  
-https://squareup.com/code-camp/  
+* [Technovation](http://www.technovationchallenge.org)
+* [Girls Who Code](http://girlswhocode.com/programs/)
+* [Made With Code](https://www.madewithcode.com/)
+* [Code Camp - Square](https://squareup.com/code-camp/)
