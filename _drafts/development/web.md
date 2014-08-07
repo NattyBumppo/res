@@ -82,7 +82,7 @@ category: development
 * [Facebook](https://developers.facebook.com/)
 * [SoundCloud](http://developers.soundcloud.com/)
 * [Rdio](http://www.rdio.com/developers/docs/)
-* [Spotify](https://developer.spotify.com/technologies/web*api/)
+* [Spotify](https://developer.spotify.com/web-api/)
 * [Dribbble](https://dribbble.com/api)
 * [Reddit](http://www.reddit.com/dev/api)
  

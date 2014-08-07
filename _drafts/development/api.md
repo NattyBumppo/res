@@ -9,10 +9,13 @@ category: development
 * [WolframAlpha](http://products.wolframalpha.com/api/)  
 
 ### Dictionary:  
-* [Wordnik](http://blog.wordnik.com/wordnik-api-has-gone-beta)  
+* [Wordnik](http://developer.wordnik.com/)
+* [Pearson](https://developer.pearson.com/apis/dictionaries/)
 
 ### Education:  
-* [Noodle](http://www.noodle.org/best-education-apis)  
+* [Khan Academy](http://api-explorer.khanacademy.org/)
+* [U.S Department of Education](http://www.ed.gov/developer)
+* [Schoology](https://developers.schoology.com/)
 
 ### Email and Communication:  
 * [Amazon SES](http://aws.amazon.com/ses/)  
@@ -41,7 +44,6 @@ category: development
 * [Directions](http://code.google.com/apis/maps/documentation/directions/)
 * [Feed](http://code.google.com/apis/feed/)
 * [Geocoding](http://code.google.com/apis/maps/documentation/geocoding/)
-* [Moderator](http://code.google.com/apis/moderator/)
 * [Open Social](http://www.opensocial.org/)
 * [Picasa](http://code.google.com/apis/picasaweb/overview.html)
 * [Places](http://code.google.com/apis/maps/documentation/places/)
@@ -52,6 +54,13 @@ category: development
 * [Webmaster](http://code.google.com/apis/webmastertools/)
 * [Youtube](http://code.google.com/apis/youtube/getting_started.html#data_api)
 
+### Health/Fitness:
+* [Fitbit](http://dev.fitbit.com/)
+* [Moves](https://dev.moves-app.com/)
+* [MyFitnessPal](http://www.myfitnesspal.com/api)
+* [RunKeeper](http://developer.runkeeper.com/healthgraph/overview)
+* [Strava](http://strava.github.io/api/)
+
 ### Images:  
 * [Gravatar](https://en.gravatar.com/site/implement/images/)
 
@@ -60,21 +69,20 @@ category: development
 * [Firebase](https://www.firebase.com/)
 * [Kii](http://www.kii.com/)
 * [Parse.com](https://www.parse.com/docs/rest)
-* [Sencha API](http://docs.sencha.io/)
-* [Windows Azure Mobile Services](http://www.windowsazure.com/en-us/home/scenarios/mobile-services/)
+* [Sencha API](http://docs.sencha.com/)
+* [Windows Azure Mobile Services](http://azure.microsoft.com/en-us/documentation/services/mobile-services/)
 
 ### OCR/Text:  
 * [ABBYY Cloud OCR](http://ocrsdk.com/documentation/)
 * [AlchemyAPI](http://www.alchemyapi.com/)
-* [Extractive](http://wiki.extractiv.com/w/page/27474675/FrontPage)
 * [doxument](http://code.google.com/p/doxument/)
 * [Online OCR](http://ocrapiservice.com/)
 * [Saplo](http://developer.saplo.com/)
-* [WashingtonPost Trove](https://developer.washingtonpost.com/api/trove)
-* [WiseTrend OCR](http://www.webservius.com/services/wisetrend/wiseocr)
+* [WashingtonPost Trove](http://apiportal.washingtonpost.com/api/trove)
 
 ### Real Time Streams:  
 * [Cadmus](http://thecadmus.com/api/docs)
+* [Twitch](http://dev.twitch.tv/)
 
 ### Social Media:  
 * [Facebook](https://www.facebook.com/developers/)
@@ -93,7 +101,7 @@ category: development
 * [Twilio](http://www.twilio.com/docs/api/rest)
 
 ### URL Shortening:  
-* [Bit.ly](http://code.google.com/p/bitly-api/wiki/ApiDocumentation)  
+* [Bit.ly](http://dev.bitly.com/)  
 
 ### Weather:  
 * [Open Weather Map](http://openweathermap.org/api)  
