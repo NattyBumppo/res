@@ -9,6 +9,7 @@ Here's a FAQ from lots of direct admit and general high school recruiting.
 
 ### What should I look for?
 I recommend students ask a number of questions when determining which school to go commit to:
+
 * What are the professors here famous for? Systems? Distributed Systems? HCI? Algorithms?
 * What type of research can I do here? How easy is it to get a research position?
 * What are the required courses for a CE degree? What electives are there? How much choice do I have when deciding on classes?
@@ -17,12 +18,13 @@ I recommend students ask a number of questions when determining which school to 
 * Scholarship opportunities?
 * What companies recruit here? How do they treat the students?
 
-#### What are the CSE professors here famous for?
+### What are the CSE professors here famous for?
 You can see a list of our faculty [here](http://www.cs.washington.edu/people/faculty/). We also have a variety of [research labs](http://www.cs.washington.edu/research/).
 
 I'm trying to pinpoint only a few specific areas of computer science that we're strong at, but I honestly can't rank one field above another. Going off of the research link, I can think of at least one or two professors (+PhD students) that I know who excel in their respective fields. Many submit award winning papers and are known worldwide. 
 
 A list of fields include:
+
 * Artificial Intelligence
 * Big Data
 * Computational & Synthetic Biology
@@ -40,7 +42,7 @@ A list of fields include:
 * Theory of Computation
 * Ubiquitous Computing
 
-#### What type of research can I do here? How easy is it to get a research position?
+### What type of research can I do here? How easy is it to get a research position?
 See my previous answer for a list of most of our research labs. You can join any of those research labs! You can also do research for other departments, like biology; having a CSE background is extremely valuable in all fields. For example, my friend, who is a biochem/cs double major, spends his time dealing with proteins.
 
 Many of the research groups look for research assistants/students who are freshmen or sophomores. It usually takes about a quarter (10 weeks) to ramp up a student. Then, they try to retain the students for as long as possible.
@@ -51,10 +53,11 @@ You can do research for credits (e.g. instead of taking a course) or as a paid p
 
 The ACM Chapter hosts Research Night every Fall and Spring. It's a way for research students, faculty, and undergraduate students to connect and see what opportunities are available.
 
-#### What are the required courses for a CS/CE degree? What electives are there? How much choice do I have when deciding on classes?
+### What are the required courses for a CS/CE degree? What electives are there? How much choice do I have when deciding on classes?
 There are slightly different degree requirements for CS and CE degrees, although the fundamentals are the same.
 
 You can find all of the courses and elective listings here:
+
 * [General information](https://www.cs.washington.edu/students/ugrad/degree_requirements/)
 * [Course offerings](https://www.cs.washington.edu/education/courses)
 
@@ -64,7 +67,7 @@ CE students take more physics and there's at least an electrical engineering cla
 
 We don't have official "specializations", but we have the flexibility of classes to take. There are also a number of seminars run by the faculty, which span anything from computational biology to networks to intellectual property law. If you're interested in more design/UX type courses, you can take some INFO/HCDE/DESIGN courses in lieu of 400-level CSE classes.
 
-#### What are the people like?
+### What are the people like?
 When people ask me what sets UW CSE apart from other departments, I've gone back to talking about the people again and again. While you can have similar courses, research labs, and companies vying for your attention, the people make this department a community. For many students, including myself, the building becomes home away from home, and the people, my second family.
 
 The 'people' generally fall into three categories: faculty, staff/administration, and students.
@@ -85,7 +88,7 @@ A lot of friends first meet in CSE classes or events, and then do things togethe
 
 We have two undergraduate CSE organizations: ACM (Association for Computing Machinery), and ACM-W, the women focused equivalent (guys welcome!). ACM hosts Research Night, social events, as well as career planning/advice talks and technical workshops/talks. 
 
-#### Where do most of the UW CSE students go after graduation?
+### Where do most of the UW CSE students go after graduation?
 UW CSE's students are very diverse, so there isn't a straight answer as to where "most" of the students go after graduating.
 
 Approximately a third of the graduates head to one of the big 3: Google, Amazon, or Microsoft. The rest are split somewhat between other established companies, startups, or graduate school/academia. One of our graduates worked with Obama's team to analyze data to see how they should optimize their campaigning resources.
@@ -96,8 +99,9 @@ A number of students will go pursue a masters or PhD degree. We also have a 5th 
 
 Since we have such a diverse culture, there isn't any pressure to follow a certain career path after graduation. Nobody looks down at you for not starting a company by the time you're a sophomore in college. Everyone's career paths are celebrated; you're only judged if you don't take advantage of *any* resources here, then complain about it (see: entitlement). I've only know of 2 people who expected to be spoon fed their careers though, and these type of people will exist at any school.
 
-#### Scholarship opportunities?
-There's a number of scholarships you can apply for. You can find some resources below: 
+### Scholarship opportunities?
+There's a number of scholarships you can apply for. You can find some resources below:
+
 * [CSE](https://www.cs.washington.edu/students/ugrad/departmental_scholarships)
 * [Department of Engineering](http://www.engr.washington.edu/curr_students/scholarships.html)
 * [Honors Program](http://depts.washington.edu/uwhonors/scholarships/current/)
@@ -105,7 +109,7 @@ There's a number of scholarships you can apply for. You can find some resources 
 
 There's also a lot of tech/computer science/STEM/engineering related scholarships out there. These include scholarships sponsored by companies or by different organizations. The scholarships are a mix of financial need based or by academic/merit factors.
 
-#### What companies recruit here?
+### What companies recruit here?
 UW CSE has an [Industry Affiliates](http://www.cs.washington.edu/industrial_affiliates/) program, where companies pay a set amount of money for a partnership with the CSE program. One of the benefits is direct recruiting opportunities to the CSE students. You can see a list of [current Affiliates](http://www.cs.washington.edu/industrial_affiliates/current/) online.
 
 UW CSE hosts two Affiliates career/recruiting fairs: one in the Fall and one in the Winter. They span over two days; Tuesdays usually highlight startups while Thursdays are intended for larger/established companies.
@@ -114,9 +118,9 @@ As a CSE student, you have access to these career fairs. UW (in general) also ho
 
 Some companies that recruit engineering students at non-CSE career fairs include (but not limited to): Tesla, Snapchat, Zappos, and Quora.
 
-#### How do those companies treat the students?
+### How do those companies treat the students?
 In my experience, the recruiters treat us very well. They're representing their company, after all. Some recruiters are more personal with the students, but these 'better' recruiters are also employed by some of the more competitive companies. Word gets around really quickly among students (and even to different schools!), so it's honestly in the recruiters' best interests to keep students happy.
 
-Once in a while, you'll run into a recruiter that seems really unprofessional, but you'll probably get that experience at least once no matter what school you go to. (It's good learning experience to learn how to deal with difficult people, if you want to spin it that way!)
+Once in a while, you'll run into a recruiter that seems really unprofessional, but you'll probably get that experience at least once no matter what school you go to. It's good learning experience to learn how to deal with difficult people, if you want to spin it that way!
 
-There's also a recruiting policy for the Affiliates program that you can find [here](http://www.cs.washington.edu/industrial_affiliates/recruiting_policy/)
+There's also a recruiting policy for the Affiliates program that you can find [here](http://www.cs.washington.edu/industrial_affiliates/recruiting_policy/).

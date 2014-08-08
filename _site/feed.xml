@@ -3,8 +3,8 @@
   <channel>
     <title>Resources</title>
     <description></description>
-    <link>http://japacible.github.io</link>
-    <atom:link href="http://japacible.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>localhost:4000</link>
+    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>scholarships</title>
@@ -43,8 +43,8 @@
 
 </description>
         <pubDate>Wed, 01 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/women%20in%20tech/scholarships.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/women%20in%20tech/scholarships.html</guid>
+        <link>localhost:4000/women%20in%20tech/scholarships.html</link>
+        <guid isPermaLink="true">localhost:4000/women%20in%20tech/scholarships.html</guid>
       </item>
     
       <item>
@@ -70,8 +70,8 @@
 &lt;h3&gt;Industry&lt;/h3&gt;
 </description>
         <pubDate>Wed, 01 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/women%20in%20tech/programmes.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/women%20in%20tech/programmes.html</guid>
+        <link>localhost:4000/women%20in%20tech/programmes.html</link>
+        <guid isPermaLink="true">localhost:4000/women%20in%20tech/programmes.html</guid>
       </item>
     
       <item>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/uwcse/teaching-assistant.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/uwcse/teaching-assistant.html</guid>
+        <link>localhost:4000/uwcse/teaching-assistant.html</link>
+        <guid isPermaLink="true">localhost:4000/uwcse/teaching-assistant.html</guid>
       </item>
     
       <item>
@@ -88,8 +88,8 @@
         <description>
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/uwcse/research.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/uwcse/research.html</guid>
+        <link>localhost:4000/uwcse/research.html</link>
+        <guid isPermaLink="true">localhost:4000/uwcse/research.html</guid>
       </item>
     
       <item>
@@ -129,8 +129,8 @@
 
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/uwcse/pre-major.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/uwcse/pre-major.html</guid>
+        <link>localhost:4000/uwcse/pre-major.html</link>
+        <guid isPermaLink="true">localhost:4000/uwcse/pre-major.html</guid>
       </item>
     
       <item>
@@ -164,8 +164,8 @@
 
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/uwcse/new-admit-wish-knew.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/uwcse/new-admit-wish-knew.html</guid>
+        <link>localhost:4000/uwcse/new-admit-wish-knew.html</link>
+        <guid isPermaLink="true">localhost:4000/uwcse/new-admit-wish-knew.html</guid>
       </item>
     
       <item>
@@ -173,21 +173,8 @@
         <description>&lt;p&gt;resumes&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/uwcse/industry-recruiting.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/uwcse/industry-recruiting.html</guid>
-      </item>
-    
-      <item>
-        <title>departmental environment</title>
-        <description>&lt;h3&gt;Building Permit&lt;/h3&gt;
-
-&lt;p&gt;All UW CSE community members have a building permit. Anyone who is in the building during closed hours should be ready to show their CSE building permit (separate from husky card) to the security guards that roam the building. If you&amp;rsquo;re with someone who has a building permit, it&amp;rsquo;s fine.&lt;/p&gt;
-
-&lt;p&gt;Contact the advisors if you think you should have a building permit but don&amp;rsquo;t.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/uwcse/environment.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/uwcse/environment.html</guid>
+        <link>localhost:4000/uwcse/industry-recruiting.html</link>
+        <guid isPermaLink="true">localhost:4000/uwcse/industry-recruiting.html</guid>
       </item>
     
       <item>
@@ -196,40 +183,48 @@
 
 &lt;h3&gt;What should I look for?&lt;/h3&gt;
 
-&lt;p&gt;I recommend students ask a number of questions when determining which school to go commit to:
-* What are the professors here famous for? Systems? Distributed Systems? HCI? Algorithms?
-* What type of research can I do here? How easy is it to get a research position?
-* What are the required courses for a CE degree? What electives are there? How much choice do I have when deciding on classes?
-* What are the people like?
-* Where do most of the graduates end up?
-* Scholarship opportunities?
-* What companies recruit here? How do they treat the students?&lt;/p&gt;
+&lt;p&gt;I recommend students ask a number of questions when determining which school to go commit to:&lt;/p&gt;
 
-&lt;h4&gt;What are the CSE professors here famous for?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the professors here famous for? Systems? Distributed Systems? HCI? Algorithms?&lt;/li&gt;
+&lt;li&gt;What type of research can I do here? How easy is it to get a research position?&lt;/li&gt;
+&lt;li&gt;What are the required courses for a CE degree? What electives are there? How much choice do I have when deciding on classes?&lt;/li&gt;
+&lt;li&gt;What are the people like?&lt;/li&gt;
+&lt;li&gt;Where do most of the graduates end up?&lt;/li&gt;
+&lt;li&gt;Scholarship opportunities?&lt;/li&gt;
+&lt;li&gt;What companies recruit here? How do they treat the students?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;What are the CSE professors here famous for?&lt;/h3&gt;
 
 &lt;p&gt;You can see a list of our faculty &lt;a href=&quot;http://www.cs.washington.edu/people/faculty/&quot;&gt;here&lt;/a&gt;. We also have a variety of &lt;a href=&quot;http://www.cs.washington.edu/research/&quot;&gt;research labs&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m trying to pinpoint only a few specific areas of computer science that we&amp;rsquo;re strong at, but I honestly can&amp;rsquo;t rank one field above another. Going off of the research link, I can think of at least one or two professors (+PhD students) that I know who excel in their respective fields. Many submit award winning papers and are known worldwide.&lt;/p&gt;
 
-&lt;p&gt;A list of fields include:
-* Artificial Intelligence
-* Big Data
-* Computational &amp;amp; Synthetic Biology
-* Computer Architecture
-* Computer Graphics, Vision, Animation, and Game Science
-* Computing for Development
-* Data Management
-* Human Computer Interaction
-* Machine Learning
-* Programming Languages and Software Engineering
-* Robotics
-* Security and Privacy
-* Sensor Systems
-* Systems and Networking
-* Theory of Computation
-* Ubiquitous Computing&lt;/p&gt;
+&lt;p&gt;A list of fields include:&lt;/p&gt;
 
-&lt;h4&gt;What type of research can I do here? How easy is it to get a research position?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;Big Data&lt;/li&gt;
+&lt;li&gt;Computational &amp;amp; Synthetic Biology&lt;/li&gt;
+&lt;li&gt;Computer Architecture&lt;/li&gt;
+&lt;li&gt;Computer Graphics, Vision, Animation, and Game Science&lt;/li&gt;
+&lt;li&gt;Computing for Development&lt;/li&gt;
+&lt;li&gt;Data Management&lt;/li&gt;
+&lt;li&gt;Human Computer Interaction&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Programming Languages and Software Engineering&lt;/li&gt;
+&lt;li&gt;Robotics&lt;/li&gt;
+&lt;li&gt;Security and Privacy&lt;/li&gt;
+&lt;li&gt;Sensor Systems&lt;/li&gt;
+&lt;li&gt;Systems and Networking&lt;/li&gt;
+&lt;li&gt;Theory of Computation&lt;/li&gt;
+&lt;li&gt;Ubiquitous Computing&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;What type of research can I do here? How easy is it to get a research position?&lt;/h3&gt;
 
 &lt;p&gt;See my previous answer for a list of most of our research labs. You can join any of those research labs! You can also do research for other departments, like biology; having a CSE background is extremely valuable in all fields. For example, my friend, who is a biochem/cs double major, spends his time dealing with proteins.&lt;/p&gt;
 
@@ -241,13 +236,17 @@
 
 &lt;p&gt;The ACM Chapter hosts Research Night every Fall and Spring. It&amp;rsquo;s a way for research students, faculty, and undergraduate students to connect and see what opportunities are available.&lt;/p&gt;
 
-&lt;h4&gt;What are the required courses for a CS/CE degree? What electives are there? How much choice do I have when deciding on classes?&lt;/h4&gt;
+&lt;h3&gt;What are the required courses for a CS/CE degree? What electives are there? How much choice do I have when deciding on classes?&lt;/h3&gt;
 
 &lt;p&gt;There are slightly different degree requirements for CS and CE degrees, although the fundamentals are the same.&lt;/p&gt;
 
-&lt;p&gt;You can find all of the courses and elective listings here:
-* &lt;a href=&quot;https://www.cs.washington.edu/students/ugrad/degree_requirements/&quot;&gt;General information&lt;/a&gt;
-* &lt;a href=&quot;https://www.cs.washington.edu/education/courses&quot;&gt;Course offerings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find all of the courses and elective listings here:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.cs.washington.edu/students/ugrad/degree_requirements/&quot;&gt;General information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.cs.washington.edu/education/courses&quot;&gt;Course offerings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;p&gt;After a set of required courses (e.g. Fundamentals I&amp;amp;II, data abstractions), you have a choice of what type of classes you want to take. Some classes, like Systems, open up different upper division courses (e.g. Operating Systems, Networks).&lt;/p&gt;
 
@@ -255,7 +254,7 @@
 
 &lt;p&gt;We don&amp;rsquo;t have official &amp;ldquo;specializations&amp;rdquo;, but we have the flexibility of classes to take. There are also a number of seminars run by the faculty, which span anything from computational biology to networks to intellectual property law. If you&amp;rsquo;re interested in more design/UX type courses, you can take some INFO/HCDE/DESIGN courses in lieu of 400-level CSE classes.&lt;/p&gt;
 
-&lt;h4&gt;What are the people like?&lt;/h4&gt;
+&lt;h3&gt;What are the people like?&lt;/h3&gt;
 
 &lt;p&gt;When people ask me what sets UW CSE apart from other departments, I&amp;rsquo;ve gone back to talking about the people again and again. While you can have similar courses, research labs, and companies vying for your attention, the people make this department a community. For many students, including myself, the building becomes home away from home, and the people, my second family.&lt;/p&gt;
 
@@ -277,7 +276,7 @@
 
 &lt;p&gt;We have two undergraduate CSE organizations: ACM (Association for Computing Machinery), and ACM-W, the women focused equivalent (guys welcome!). ACM hosts Research Night, social events, as well as career planning/advice talks and technical workshops/talks.&lt;/p&gt;
 
-&lt;h4&gt;Where do most of the UW CSE students go after graduation?&lt;/h4&gt;
+&lt;h3&gt;Where do most of the UW CSE students go after graduation?&lt;/h3&gt;
 
 &lt;p&gt;UW CSE&amp;rsquo;s students are very diverse, so there isn&amp;rsquo;t a straight answer as to where &amp;ldquo;most&amp;rdquo; of the students go after graduating.&lt;/p&gt;
 
@@ -289,17 +288,21 @@
 
 &lt;p&gt;Since we have such a diverse culture, there isn&amp;rsquo;t any pressure to follow a certain career path after graduation. Nobody looks down at you for not starting a company by the time you&amp;rsquo;re a sophomore in college. Everyone&amp;rsquo;s career paths are celebrated; you&amp;rsquo;re only judged if you don&amp;rsquo;t take advantage of &lt;em&gt;any&lt;/em&gt; resources here, then complain about it (see: entitlement). I&amp;rsquo;ve only know of 2 people who expected to be spoon fed their careers though, and these type of people will exist at any school.&lt;/p&gt;
 
-&lt;h4&gt;Scholarship opportunities?&lt;/h4&gt;
+&lt;h3&gt;Scholarship opportunities?&lt;/h3&gt;
 
-&lt;p&gt;There&amp;rsquo;s a number of scholarships you can apply for. You can find some resources below:
-* &lt;a href=&quot;https://www.cs.washington.edu/students/ugrad/departmental_scholarships&quot;&gt;CSE&lt;/a&gt;
-* &lt;a href=&quot;http://www.engr.washington.edu/curr_students/scholarships.html&quot;&gt;Department of Engineering&lt;/a&gt;
-* &lt;a href=&quot;http://depts.washington.edu/uwhonors/scholarships/current/&quot;&gt;Honors Program&lt;/a&gt;
-* &lt;a href=&quot;https://www.washington.edu/students/osfa/ugaid/scholarship.html&quot;&gt;UW FAFSA or Academic Scholarships&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a number of scholarships you can apply for. You can find some resources below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.cs.washington.edu/students/ugrad/departmental_scholarships&quot;&gt;CSE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.engr.washington.edu/curr_students/scholarships.html&quot;&gt;Department of Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://depts.washington.edu/uwhonors/scholarships/current/&quot;&gt;Honors Program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.washington.edu/students/osfa/ugaid/scholarship.html&quot;&gt;UW FAFSA or Academic Scholarships&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;p&gt;There&amp;rsquo;s also a lot of tech/computer science/STEM/engineering related scholarships out there. These include scholarships sponsored by companies or by different organizations. The scholarships are a mix of financial need based or by academic/merit factors.&lt;/p&gt;
 
-&lt;h4&gt;What companies recruit here?&lt;/h4&gt;
+&lt;h3&gt;What companies recruit here?&lt;/h3&gt;
 
 &lt;p&gt;UW CSE has an &lt;a href=&quot;http://www.cs.washington.edu/industrial_affiliates/&quot;&gt;Industry Affiliates&lt;/a&gt; program, where companies pay a set amount of money for a partnership with the CSE program. One of the benefits is direct recruiting opportunities to the CSE students. You can see a list of &lt;a href=&quot;http://www.cs.washington.edu/industrial_affiliates/current/&quot;&gt;current Affiliates&lt;/a&gt; online.&lt;/p&gt;
 
@@ -309,17 +312,30 @@
 
 &lt;p&gt;Some companies that recruit engineering students at non-CSE career fairs include (but not limited to): Tesla, Snapchat, Zappos, and Quora.&lt;/p&gt;
 
-&lt;h4&gt;How do those companies treat the students?&lt;/h4&gt;
+&lt;h3&gt;How do those companies treat the students?&lt;/h3&gt;
 
 &lt;p&gt;In my experience, the recruiters treat us very well. They&amp;rsquo;re representing their company, after all. Some recruiters are more personal with the students, but these &amp;lsquo;better&amp;rsquo; recruiters are also employed by some of the more competitive companies. Word gets around really quickly among students (and even to different schools!), so it&amp;rsquo;s honestly in the recruiters' best interests to keep students happy.&lt;/p&gt;
 
-&lt;p&gt;Once in a while, you&amp;rsquo;ll run into a recruiter that seems really unprofessional, but you&amp;rsquo;ll probably get that experience at least once no matter what school you go to. (It&amp;rsquo;s good learning experience to learn how to deal with difficult people, if you want to spin it that way!)&lt;/p&gt;
+&lt;p&gt;Once in a while, you&amp;rsquo;ll run into a recruiter that seems really unprofessional, but you&amp;rsquo;ll probably get that experience at least once no matter what school you go to. It&amp;rsquo;s good learning experience to learn how to deal with difficult people, if you want to spin it that way!&lt;/p&gt;
 
-&lt;p&gt;There&amp;rsquo;s also a recruiting policy for the Affiliates program that you can find &lt;a href=&quot;http://www.cs.washington.edu/industrial_affiliates/recruiting_policy/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s also a recruiting policy for the Affiliates program that you can find &lt;a href=&quot;http://www.cs.washington.edu/industrial_affiliates/recruiting_policy/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/uwcse/department-recruiting.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/uwcse/department-recruiting.html</guid>
+        <link>localhost:4000/uwcse/hs-departmental-recruiting.html</link>
+        <guid isPermaLink="true">localhost:4000/uwcse/hs-departmental-recruiting.html</guid>
+      </item>
+    
+      <item>
+        <title>departmental environment</title>
+        <description>&lt;h3&gt;Building Permit&lt;/h3&gt;
+
+&lt;p&gt;All UW CSE community members have a building permit. Anyone who is in the building during closed hours should be ready to show their CSE building permit (separate from husky card) to the security guards that roam the building. If you&amp;rsquo;re with someone who has a building permit, it&amp;rsquo;s fine.&lt;/p&gt;
+
+&lt;p&gt;Contact the advisors if you think you should have a building permit but don&amp;rsquo;t.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
+        <link>localhost:4000/uwcse/environment.html</link>
+        <guid isPermaLink="true">localhost:4000/uwcse/environment.html</guid>
       </item>
     
       <item>
@@ -327,8 +343,8 @@
         <description>
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://japacible.github.io/uwcse/courses.html</link>
-        <guid isPermaLink="true">http://japacible.github.io/uwcse/courses.html</guid>
+        <link>localhost:4000/uwcse/courses.html</link>
+        <guid isPermaLink="true">localhost:4000/uwcse/courses.html</guid>
       </item>
     
   </channel>
