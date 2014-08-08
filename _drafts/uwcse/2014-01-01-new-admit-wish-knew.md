@@ -21,3 +21,6 @@ Things people wish they knew when they were first admitted into CSE. Brought to 
 * Do research!
 * Be wary of [confirmation bias](http://en.wikipedia.org/wiki/Confirmation_bias) and [imposter syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome).
 * Go to ALL of the career fairs!
+
+### Relevant Links:
+* [What do UW CSE students wish they had known when they were new to the major?](https://www.quora.com/What-do-UW-CSE-students-wish-they-had-known-when-they-were-new-to-the-major)
