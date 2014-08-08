@@ -3,8 +3,8 @@
   <channel>
     <title>Resources</title>
     <description></description>
-    <link>localhost:4000</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://japacible.github.io</link>
+    <atom:link href="http://japacible.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>scholarships</title>
@@ -43,8 +43,8 @@
 
 </description>
         <pubDate>Wed, 01 Oct 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/women%20in%20tech/scholarships.html</link>
-        <guid isPermaLink="true">localhost:4000/women%20in%20tech/scholarships.html</guid>
+        <link>http://japacible.github.io/women%20in%20tech/scholarships.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/women%20in%20tech/scholarships.html</guid>
       </item>
     
       <item>
@@ -70,8 +70,8 @@
 &lt;h3&gt;Industry&lt;/h3&gt;
 </description>
         <pubDate>Wed, 01 Oct 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/women%20in%20tech/programmes.html</link>
-        <guid isPermaLink="true">localhost:4000/women%20in%20tech/programmes.html</guid>
+        <link>http://japacible.github.io/women%20in%20tech/programmes.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/women%20in%20tech/programmes.html</guid>
       </item>
     
       <item>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/uwcse/teaching-assistant.html</link>
-        <guid isPermaLink="true">localhost:4000/uwcse/teaching-assistant.html</guid>
+        <link>http://japacible.github.io/uwcse/teaching-assistant.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/uwcse/teaching-assistant.html</guid>
       </item>
     
       <item>
@@ -88,8 +88,8 @@
         <description>
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/uwcse/research.html</link>
-        <guid isPermaLink="true">localhost:4000/uwcse/research.html</guid>
+        <link>http://japacible.github.io/uwcse/research.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/uwcse/research.html</guid>
       </item>
     
       <item>
@@ -129,8 +129,8 @@
 
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/uwcse/pre-major.html</link>
-        <guid isPermaLink="true">localhost:4000/uwcse/pre-major.html</guid>
+        <link>http://japacible.github.io/uwcse/pre-major.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/uwcse/pre-major.html</guid>
       </item>
     
       <item>
@@ -164,8 +164,8 @@
 
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/uwcse/new-admit-wish-knew.html</link>
-        <guid isPermaLink="true">localhost:4000/uwcse/new-admit-wish-knew.html</guid>
+        <link>http://japacible.github.io/uwcse/new-admit-wish-knew.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/uwcse/new-admit-wish-knew.html</guid>
       </item>
     
       <item>
@@ -173,8 +173,8 @@
         <description>&lt;p&gt;resumes&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/uwcse/industry-recruiting.html</link>
-        <guid isPermaLink="true">localhost:4000/uwcse/industry-recruiting.html</guid>
+        <link>http://japacible.github.io/uwcse/industry-recruiting.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/uwcse/industry-recruiting.html</guid>
       </item>
     
       <item>
@@ -321,8 +321,8 @@
 &lt;p&gt;There&amp;rsquo;s also a recruiting policy for the Affiliates program that you can find &lt;a href=&quot;http://www.cs.washington.edu/industrial_affiliates/recruiting_policy/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/uwcse/hs-departmental-recruiting.html</link>
-        <guid isPermaLink="true">localhost:4000/uwcse/hs-departmental-recruiting.html</guid>
+        <link>http://japacible.github.io/uwcse/hs-departmental-recruiting.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/uwcse/hs-departmental-recruiting.html</guid>
       </item>
     
       <item>
@@ -334,8 +334,8 @@
 &lt;p&gt;Contact the advisors if you think you should have a building permit but don&amp;rsquo;t.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/uwcse/environment.html</link>
-        <guid isPermaLink="true">localhost:4000/uwcse/environment.html</guid>
+        <link>http://japacible.github.io/uwcse/environment.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/uwcse/environment.html</guid>
       </item>
     
       <item>
@@ -343,8 +343,8 @@
         <description>
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>localhost:4000/uwcse/courses.html</link>
-        <guid isPermaLink="true">localhost:4000/uwcse/courses.html</guid>
+        <link>http://japacible.github.io/uwcse/courses.html</link>
+        <guid isPermaLink="true">http://japacible.github.io/uwcse/courses.html</guid>
       </item>
     
   </channel>
