@@ -16,7 +16,7 @@ For example, if you're interested in computer science programs, ask the followin
 * Scholarship opportunities?
 * What companies recruit here? How do they treat the students?
 
-No CSE direct admit:
+More questions if you're not a CSE direct admit:
 * What other programs/majors interest you at that school?
 * Would you be happy declaring a different major?
 * What resources are available for non-CSE majors?

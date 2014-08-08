@@ -1,10 +1,13 @@
 ---
 layout: post
-title: departmental recruiting
+title: high school departmental recruiting
 description:
 category: uwcse
 ---
 
+Here's a FAQ from lots of direct admit and general high school recruiting.
+
+### What should I look for?
 I recommend students ask a number of questions when determining which school to go commit to:
 * What are the professors here famous for? Systems? Distributed Systems? HCI? Algorithms?
 * What type of research can I do here? How easy is it to get a research position?
@@ -13,8 +16,6 @@ I recommend students ask a number of questions when determining which school to 
 * Where do most of the graduates end up?
 * Scholarship opportunities?
 * What companies recruit here? How do they treat the students?
-
-Here are my answers to those questions for UW CSE:
 
 #### What are the CSE professors here famous for?
 You can see a list of our faculty [here](http://www.cs.washington.edu/people/faculty/). We also have a variety of [research labs](http://www.cs.washington.edu/research/).
