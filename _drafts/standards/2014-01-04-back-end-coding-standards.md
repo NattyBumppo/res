@@ -6,8 +6,9 @@ category: standards
 ---
 
 ### Ruby
-* [Guideline](https://github.com/bbatsov/ruby-style-guide)
-* [rubocop](https://github.com/bbatsov/rubocop)
+* [Guide - Caliban](http://www.caliban.org/ruby/rubyguide.shtml)
+* [Ruby Style Guide - bbatsov](https://github.com/bbatsov/ruby-style-guide)
+* [rubocop - bbatsov](https://github.com/bbatsov/rubocop)
 
 ### Rails
-* [Guideline](https://github.com/bbatsov/rails-style-guide)
+* [Guideline - bbatsov](https://github.com/bbatsov/rails-style-guide)

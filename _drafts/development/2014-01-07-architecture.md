@@ -6,4 +6,6 @@ category: development
 ---
 
 ### Architectural Diagram:  
-* [SketchUp](http://www.sketchup.com/product/newin7.html)  
+* [Gliffy](http://www.gliffy.com/)
+* [Lovely Charts](http://www.lovelycharts.com/)
+* [SketchUp](http://www.sketchup.com/product/newin7.html)
