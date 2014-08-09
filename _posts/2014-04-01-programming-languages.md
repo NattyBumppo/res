@@ -6,6 +6,9 @@ category: development
 ---
 
 ### C:  
+* [C Programming and C++ Programming](http://www.cprogramming.com/)
+* [C Programming Notes (Part 1)](http://www.eskimo.com/~scs/cclass/notes/top.html)
+* [C Programming Notes (Part 2)](http://www.eskimo.com/~scs/cclass/int/top.html)
 * [Sample C Codes](http://sample-c-codes.blogspot.com/)  
 
 ### C++:  
