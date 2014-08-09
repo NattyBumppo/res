@@ -7,7 +7,7 @@ category: hackathon
 
 Advice from friends, Hackathon Hackers, and the internet.
 
-###Preparing
+### Preparing
 * Setup your development environment before arriving. This includes:
   * IDEs/Editors/Plugins
   * APIs
@@ -17,14 +17,14 @@ Advice from friends, Hackathon Hackers, and the internet.
 * Dress comfortably.
 * If possible, form a team beforehand and brainstorm potential ideas so that you can hit the ground running.
 
-###Networking
+### Networking
 * Break from your code throughout the hackathon to network with other developers (employees, mentors, students).
 * You don't need to be an expert on a company's product, but at least having some general knowlege or pre-constructed questions can help to get a dialogue going.
 * Be humble when discussing your accomplishments.
 * Show enthusiasm in your work and genuine interest in theirs.
 * Don't burn any bridges, you will likely see some of these participants/organizers again.
 
-###Presenting
+### Presenting
 * Have something completed. It may not look like your initial design but having something working shows determination and perseverance.
 * Explain the high-level details of your project:
   * What does it do?
@@ -33,7 +33,7 @@ Advice from friends, Hackathon Hackers, and the internet.
 * Discuss the audience for your product and how this product will improve their current circumstances.
 * Have an idea for future enhancements. You may never intend to work on this again, but it's often good to be prepared when this question is inevitably asked.
 
-###General Wisdom
+### General Wisdom
 * Don't underestimate yourself.
 * Don't be afraid to make mistakes. Hackathons are an excellent way to learn in a short period of time!
 * Enjoy the atmosphere.

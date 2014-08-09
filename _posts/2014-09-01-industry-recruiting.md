@@ -5,4 +5,8 @@ description:
 category: uwcse
 ---
 
-resumes
+### TODO: 
+* recruiting policy
+* interviewing
+* departmental/acm prep
+* resumes

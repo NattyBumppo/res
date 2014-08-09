@@ -5,7 +5,7 @@ description:
 category: uwcse
 ---
 
-Here's a FAQ from lots of direct admit and general high school recruiting.
+FAQ from direct admit and general high school recruiting.
 
 ### What should I look for?
 I recommend students ask a number of questions when determining which school to go commit to:
