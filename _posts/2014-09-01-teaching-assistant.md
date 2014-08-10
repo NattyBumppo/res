@@ -5,7 +5,7 @@ description:
 category: uwcse
 ---
 
-***Advice from a Graduate TA (Nathaniel Guy)***
+###Advice from a Graduate TA (Nathaniel Guy)###
 
 I've worked as a teaching assistant in UW CSE for three quarters, and they were all quite enjoyable. I'll go over what's required to become a TA, what's expected of TAs, how TAs are compensated, and some advice for becoming a more helpful TA. Note that I only have experience with graduate assistantships; undergraduate assistantships are a different beast altogether.
 
